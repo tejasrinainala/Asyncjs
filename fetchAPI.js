@@ -23,5 +23,6 @@ fetch("https://jsonplaceholder.typicode.com/users/3")
 })
 .catch(err => console.log(err));
 
+
 //output
 Clementine Bauch works for Romaguera-Jacobson
